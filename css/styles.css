@@ -1,0 +1,37 @@
+#home-page{
+    background-color:#4F4557;
+    color: white;
+    text-align: center;
+}
+
+.intro h1{
+    padding: 10px 0 10px;
+}
+
+.recipe-list{
+    width: 300px;
+    margin:50px auto;
+}
+
+.recipe-link{
+    text-decoration: none;
+    color: white;
+}
+
+.recipe-link:hover{
+    color: yellow;
+}
+
+.recipe-page{
+    background-color:#F4EEE0;
+    color: #393646;
+    text-align: center;
+}
+
+.recipe-item{
+    padding: 10px;
+}
+
+.recipe-headings{
+    padding: 10px 0;
+}
